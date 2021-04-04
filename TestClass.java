@@ -7,6 +7,8 @@ public class TestClass {
 		System.out.println("Git' den Merhaba");
 		System.out.println("Github' tan Merhaba");// Bu benim Github.com daki yeni kodum
 		System.out.println("Uzak sunucudaki kodum");// Bu benim Github.com daki yeni kodum
+		
+		System.out.println("11. satir UZAK SUNUCU");// Github.com daki yeni kodum
 	}
 
 }
